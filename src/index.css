@@ -20,7 +20,6 @@ code {
 body {
   margin: 0;
   padding: 0;
-  background: #eee;
   font-family: sans-serif;
 }
 
@@ -48,7 +47,8 @@ body {
 }
 
 .main-content{
-  width: calc(100% - 16em);
+  width: 100%;
+  margin: 0 auto;
 }
 .container {
   position: relative;

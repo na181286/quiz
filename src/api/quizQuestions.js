@@ -1,87 +1,87 @@
 var quizQuestions = [
   {
-      question: "What is your official marital status in Germany??",
+      question: "Do you remebmer what you did 1 hour ago?",
       answers: [
           {
-              type: "Cool",
-              content: "Married"
+              type: "no",
+              content: "yes"
           },
           {
-              type: "Super",
-              content: "Single"
+              type: "yes",
+              content: "no"
           },
           {
-              type: "Not bad",
-              content: "Divorced"
+              type: "maybe",
+              content: "I remember but very vaguely"
           }
       ]
   },
   {
-      question: "What were your occupations in the year 2018?",
+      question: "Read the text, look into the window and repeat it. Has something changed?",
       answers: [
           {
-              type: "Cool",
-              content: "Employed"
+              type: "no",
+              content: "no"
           },
           {
-              type: "Not bad",
-              content: "Retired"
+              type: "yes",
+              content: "yes"
           },
           {
-              type: "Super",
-              content: "Not working"
+              type: "maybe",
+              content: "I don't remember"
           }
       ]
   },
   {
-      question: "Did you attend any professional training courses?",
+      question: "Is something strange? (do you see pink horse or something like that?)",
       answers: [
           {
-              type: "Cool",
-              content: "Yes"
+              type: "yes",
+              content: "yes"
           },
           {
-              type: "Not bad",
-              content: "No"
+              type: "no",
+              content: "no"
           },
           {
-              type: "Super",
-              content: "May be"
+              type: "maybe",
+              content: "yes, but it is not strange"
           }
       ]
   },
   {
-      question: "Did you have any other income sources in 2018?",
+      question: "Whom you see in the mirror?",
       answers: [
           {
-              type: "Not bad",
-              content: "Pensions"
+              type: "no",
+              content: "I see me"
           },
           {
-              type: "Cool",
-              content: "Capital gains"
+              type: "yes",
+              content: "I see Beyonce"
           },
           {
-              type: "Super",
-              content: "Bitcoins"
+              type: "maybe",
+              content: "I see Beyonce, but I am Beyonce"
           }
       ]
   },
   {
-      question: "Did your capital gain enter a German depot or bank account only?",
+      question: "Am I dreaming?",
       answers: [
           {
-              type: "Super",
-              content: "Yes"
+              type: "yes",
+              content: "yes"
           },
           {
-              type: "Cool",
-              content: "No"
+              type: "maybe",
+              content: "no"
           },
           
           {
-              type: "Not bad",
-              content: "May be"
+              type: "no",
+              content: "yes, but it is ok, I am now bored"
           }
          
       ]
